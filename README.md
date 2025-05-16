@@ -1,5 +1,5 @@
 # Personal website
-Hosted on (pouyan.dev)[https://pouyan.dev]
+Hosted on [pouyan.dev](https://pouyan.dev)
 
 # Publish
 Run ./.deployment/publish.sh
