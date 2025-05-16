@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /cv/
+Allow: /blog/
+Allow: /reach/
+
+# Disallow PDF files
+Disallow: /*.pdf$
+
+# Sitemap
+Sitemap: https://pouyan.dev/sitemap.xml 
