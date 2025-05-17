@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Allow: /cv/
+Allow: /projects/
 Allow: /blog/
 Allow: /reach/
 
